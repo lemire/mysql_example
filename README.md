@@ -2,7 +2,7 @@
 
 Nous supposons que vous avez Java (SDK) installé sur votre machine (version 8 ou mieuxls)
 ainsi que maven (version 3 ou mieux). Java et maven devraient être configurés correctement
-et disponible en ligne de commande.
+et disponibles en ligne de commande.
 
 Vous pouvez récupérer le code de ce projet de GitHub en faisant Code/Download ZIP.
 
