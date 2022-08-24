@@ -1,9 +1,12 @@
 
 
 Nous supposons que vous avez Java (SDK) installé sur votre machine (version 8 ou mieuxls)
-ainsi que maven (version 3 ou mieux).
+ainsi que maven (version 3 ou mieux). Java et maven devraient être configurés correctement
+et disponible en ligne de commande.
 
-Allez en ligne de commande dans le dossier Demo. Tapez ceci...
+Vous pouvez récupérer le code de ce projet de GitHub en faisant Code/Download ZIP.
+
+Une fois les fichiers sur votre disque, allez en ligne de commande dans le dossier Demo. Tapez ceci...
 
 ```
 mvn clean package
